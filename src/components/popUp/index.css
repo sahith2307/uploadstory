@@ -1,0 +1,21 @@
+.details-but {
+  background-color: #229db3;
+  color: #ffffff;
+  padding: 15px;
+  border-width: 0px;
+  border-radius: 5px;
+}
+
+.pop-cont {
+  background-color: #f0f0f0;
+  opacity: 1;
+  box-shadow: #ffffff 0px 54px 55px, #ffffff 0px -12px 30px, #ffffff 0px 4px 6px,
+    #ffffff 0px 12px 13px, #ffffff 0px -3px 5px;
+  width: 50vw;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 20px;
+}
